@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "*.tsx": "typescriptreact",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "iomanip": "cpp"
     }
 }
