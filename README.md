@@ -25,3 +25,6 @@ oj login https://beta.atcoder.jp
 
 1. 提出するファイルを開いた状態でTASK RUNNER->submit
 2. 結果はAtCoderサイトの提出結果ページで確認できる
+
+## 参考
+https://qiita.com/tf63/items/c93c6f24d73599e637d8
