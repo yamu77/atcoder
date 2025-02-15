@@ -1,5 +1,4 @@
 #! /bin/bash
-
 ### 引数はabc172みたいにに指定する
 
 # example
