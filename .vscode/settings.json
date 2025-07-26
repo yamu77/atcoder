@@ -1,16 +1,17 @@
 {
-    "files.associations": {
-        "*.tsx": "typescriptreact",
-        "ostream": "cpp",
-        "iostream": "cpp",
-        "random": "cpp",
-        "limits": "cpp",
-        "iomanip": "cpp",
-        "iterator": "cpp",
-        "*.tcc": "cpp",
-        "string": "cpp",
-        "string_view": "cpp",
-        "regex": "cpp",
-        "cmath": "cpp"
-    }
+  "files.associations": {
+    "*.tsx": "typescriptreact",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "iomanip": "cpp",
+    "iterator": "cpp",
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "regex": "cpp",
+    "cmath": "cpp"
+  },
+  "cSpell.words": ["krep", "LINF", "vecd", "vecll"]
 }
